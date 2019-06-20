@@ -1,0 +1,8 @@
+# github.com/golang/protobuf v1.3.1
+github.com/golang/protobuf/proto
+github.com/golang/protobuf/ptypes/timestamp
+github.com/golang/protobuf/ptypes/wrappers
+# github.com/heroiclabs/nakama v2.5.1+incompatible
+github.com/heroiclabs/nakama/runtime
+github.com/heroiclabs/nakama/api
+github.com/heroiclabs/nakama/rtapi

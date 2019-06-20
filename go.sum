@@ -1,0 +1,4 @@
+github.com/golang/protobuf v1.3.1 h1:YF8+flBXS5eO826T4nzqPrxfhQThhXl0YzfuUPu4SBg=
+github.com/golang/protobuf v1.3.1/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
+github.com/heroiclabs/nakama v2.5.1+incompatible h1:yD0cXspWIhN297ypw/mGuLE2tOZY5iTmrLxdIAWR3K0=
+github.com/heroiclabs/nakama v2.5.1+incompatible/go.mod h1:xeo1bt/cMuCzz8o57eUR0fcEu3qoPxAsOIasRMwemDQ=
